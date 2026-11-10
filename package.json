@@ -1,0 +1,15 @@
+
+{
+    "name": "projeto-lego",
+    "version": "1.0.0",
+    "description": "API de cadastro de conjuntos LEGO",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^5.1.0",
+        "mongodb": "^6.17.0",
+        "dotenv": "^16.5.0"
+    }
+}
